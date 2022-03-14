@@ -3,6 +3,8 @@ I’m currently working on the [visual live-programming environment vvvv](https:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tebjan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=tebjan&color=gray)
+
 <!--
 **tebjan/tebjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
