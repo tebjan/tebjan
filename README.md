@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m currently working with the [visual live-programming environment vvvv](https://visualprogramming.net/) and sometimes on the [stride game engine](https://www.stride3d.net).
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tebjan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+More on: [tebjan.de](https://tebjan.de)
 
 ![](https://komarev.com/ghpvc/?username=tebjan&color=gray)
 
