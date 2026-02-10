@@ -1,5 +1,5 @@
 Creative technologist and [vvvv](https://vvvv.org) core developer since 2004. Mathematics and computer science background with 20+ years of experience in real-time GPU graphics, interactive installations, open-source tools, and electronic music.
-My work spans from early DirectX 9 shader experiments to [Stride game engine](https://www.stride3d.net) contributions, immersive VR experiences, and [applied AI research](https://forum.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596). Most of my work was [done years before](https://legacy.vvvv.org/documentation/tonfilm-screenshots) before the used techniques became mainstream.
+My work spans from early DirectX 9 shader experiments to [Stride game engine](https://www.stride3d.net) contributions, immersive VR experiences, and [applied AI research](https://forum.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596). Most of my work was [done years before](https://legacy.vvvv.org/documentation/tonfilm-screenshots) the used techniques became mainstream.
 
 More on: [tebjan.de](https://tebjan.de)
 
