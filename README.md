@@ -1,7 +1,10 @@
-Senior SWE, creator and [vvvv](https://vvvv.org) core developer since 2004. Mathematics and computer science background with 20+ years of experience in real-time GPU graphics, interactive installations, open-source tools, and electronic music.
-My work spans from early DirectX 9 shader experiments to [Stride game engine](https://www.stride3d.net) contributions, immersive VR experiences, and [applied AI research](https://forum.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596). Most of my work was [done years before](https://legacy.vvvv.org/documentation/tonfilm-screenshots) the used techniques became mainstream.
+Co-founder of [Halbach AI](https://halbach.ai), focused on optimizing AI inference. Working with [Refik Anadol Studio](https://refikanadol.com) on real-time AI and large-scale graphics systems.
 
-More on: [tebjan.de](https://tebjan.de)
+20+ years building performance-critical systems, from GPU kernels and rendering engines to programming language design and billion-particle simulations at [Dataland](https://dataland.art).
+
+Nearly two decades as a [vvvv](https://vvvv.org) core developer and contributor to the [Stride game engine](https://www.stride3d.net). Background in mathematics and computer science, with interests in research, creative coding, audio DSP, and electronic music.
+
+More at [tebjan.de](https://tebjan.de).
 
 ![](https://komarev.com/ghpvc/?username=tebjan&color=gray)
 
